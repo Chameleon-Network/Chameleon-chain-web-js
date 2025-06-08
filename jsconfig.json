@@ -1,9 +1,9 @@
 {
   "compilerOptions": {
     "baseUrl": "./",
-    "paths": {
-      "@lib/*": ["./lib/*"]
-    }
   },
-  "exclude": ["build", "node_modules"]
+  "exclude": [
+    "build",
+    "node_modules"
+  ]
 }
